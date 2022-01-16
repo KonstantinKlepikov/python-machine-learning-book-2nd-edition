@@ -10,3 +10,11 @@ ipython==7.31.0
 jupyter-contrib-nbextensions==0.5.1
 graphviz==0.19.1
 pydotplus==2.0.2
+pyprind==2.11.3
+click==8.0.3
+nltk==3.6.7
+regex==2021.11.10
+tqdm==4.62.3
+Werkzeug==2.0.2
+flask==2.0.2
+itsdangerous==2.0.1
